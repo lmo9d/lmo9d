@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lmo9d
-- 👀 I’m interested in Software Development and Software Engineering
-- 🌱 I’m currently learning SQL and other Frameworks
+- 👋 Hi, I’m @lmo9d 
+- 👀 I’m interested in Cloud Engineering & Software Development
+- 🌱 I’m currently learning Azure, AWS & SQL.
 - 💞️ I’m looking to collaborate on Projects, Apps, & API's
 - 📫 How to reach me via email.
 
