@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lmo9d 
-- 👀 I’m interested in Cloud Engineering & Software Development
+- 👋 Hi, I’m Luis 
+- 👀 I’m interested in Cloud Engineering, Cybersecurity & Software Development
 - 🌱 I’m currently learning Azure, AWS & SQL.
 - 💞️ I’m looking to collaborate on Projects, Apps, & API's
 - 📫 How to reach me via email.
