@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Engineering, Cybersecurity & Software Development
 - 🌱 I’m currently learning Azure, AWS & SQL.
 - 💞️ I’m looking to collaborate on Projects, Apps, & API's
-- 📫 How to reach me via email.
+- 📫 How to reach me: via email.
 
 <!---
 lmo9d/lmo9d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
