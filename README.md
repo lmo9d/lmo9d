@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Luis 
-- 👀 I’m interested in Cloud Engineering, Cybersecurity & Software Development
-- 🌱 I’m currently learning Azure, AWS & SQL.
-- 💞️ I’m looking to collaborate on Projects, Apps, & API's
+- 👊 Hi, I’m Luis 
+- 🧩 My interests are in Cloud Engineering, Cloud Development, DevOps, Cybersecurity & Software Development
+- ☁️ I’m currently learning Azure, AWS & SQL.
+- 🔍 Looking to collaborate on Projects, App Development, & API's
 - 📫 How to reach me: via email.
 
 <!---
